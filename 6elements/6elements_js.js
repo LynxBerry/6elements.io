@@ -24,33 +24,6 @@ Vue.component('main-section',{
 
 });
 
-Vue.component('lang-switcher',{
-		props:['lang'],
-		data:function(){
-
-				return (this.lang === "en") ? {showlang:"中文"} : {showlang:"English"};
-			},
-		template:'<div v-on:click="switchLang">{{showlang}}</div>',
-		methods:{
-			switchLang: function () {
-				if(this.showlang === "English") {
-					this.showlang = "中文";
-					console.log("1event en");
-					this.$emit('lang-change',"en");
-					//eventBus.$emit('langChange',"en");
-
-				}else{
-					this.showlang = "English";
-					console.log("1event zh");
-					this.$emit('lang-change',"zh");
-					//eventBus.$emit('langChange',"zh");
-
-				}
-			}
-		}
-
-
-});
 
 //Root instance
 //Data flow in from root down to children
