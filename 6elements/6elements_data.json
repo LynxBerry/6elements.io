@@ -1,0 +1,33 @@
+{
+  "BackgroundPicUrl":"",
+  "MenuBar": [
+    {"en":"HOME","zh":"主页"},
+    {"en":"ABOUT","zh":"关于"},
+    {"en":"TRAINING","zh":"培训"}
+  ],
+  "MainMessage":{
+    "en":"Are you communicating or just talking?",
+    "zh":"对话就能沟通吗？"
+  },
+  "MainMessage2":{
+    "en":"Everyone struggles with communication sometimes. No matter how hard we try, we can't always get through. So how can you reach people you've struggled with before? Is there a key to understanding the people we interact with... and ourselves?",
+    "zh":"我们跟人沟通有时会卡住，无论怎么努力好像都没有用。面对你沟通困难的人，怎么跟他们互动才有效呢？有没有一把钥匙能够打开人内心世界的大门，读懂对方，也读懂自己？"
+  },
+  "section1title":{
+    "en":"Introducing Process Communication Model",
+    "zh":"介绍 PCM 过程沟通"
+},
+  "section1msg":{
+      "en":"The Process Communication Model - or PCM for short - is an evidence based program that shows you how to individualize Communication by observing and decoding behaviors.",
+      "zh":"PCM 过程沟通，是一套以实证研究为基础的方法，帮你学会观察人的行为并解码，从而可以因人而异地进行沟通。运用 PCM 的这些技能，你会明白为什么对某些情况你会用特定的方式回应，也可以更好地理解别人的行为和心理过程。"
+  },
+  "section1pic":"/media/communication.jpg",
+  "section2title":{
+    "en":"Introducing Process Communication Model",
+    "zh":"介绍 PCM 过程沟通"
+  },
+  "section2msg":{
+      "en":"The Process Communication Model - or PCM for short - is an evidence based program that shows you how to individualize Communication by observing and decoding behaviors.",
+      "zh":"PCM 过程沟通，是一套以实证研究为基础的方法，帮你学会观察人的行为并解码，从而可以因人而异地进行沟通。运用 PCM 的这些技能，你会明白为什么对某些情况你会用特定的方式回应，也可以更好地理解别人的行为和心理过程。"
+  }
+}
